@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.log
+logs/
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+
+# ChromaDB
+chroma_store/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migrations (keep initial, ignore others)
+# Keep migrations tracked in git
