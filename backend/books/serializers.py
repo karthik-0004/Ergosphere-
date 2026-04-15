@@ -94,4 +94,4 @@ class BookUploadSerializer(serializers.ModelSerializer):
 
 class RAGQuerySerializer(serializers.Serializer):
 	question = serializers.CharField(max_length=1000)
-	book_id = serializers.IntegerField(required=False)
+	book_id = serializers.IntegerField(required=False, allow_null=True)

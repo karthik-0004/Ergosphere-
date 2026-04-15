@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="BookIQ logo">
+  <rect width="512" height="512" fill="#f5f5f5"/>
+  <g fill="none" stroke="#e23a55" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 136h18c42 0 81 16 110 44v122c-29-28-68-44-110-44h-18z" fill="#e23a55" opacity="0.95"/>
+    <path d="M384 136h-18c-42 0-81 16-110 44v122c29-28 68-44 110-44h18z" fill="#e23a55" opacity="0.95"/>
+    <path d="M256 180v122"/>
+    <path d="M160 194c42 0 74 14 96 40"/>
+    <path d="M352 194c-42 0-74 14-96 40"/>
+    <path d="M136 136v132a10 10 0 0 0 10 10h86"/>
+    <path d="M376 136v132a10 10 0 0 1-10 10h-86"/>
+  </g>
+  <g fill="#e23a55">
+    <text x="256" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700" letter-spacing="1">book</text>
+  </g>
+</svg>

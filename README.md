@@ -191,8 +191,29 @@ Ergosphere/
 - Dedicated 404 page
 
 ## 📸 Screenshots
-> Screenshots will be added after running the application  
-> See the /screenshots folder for UI screenshots
+![e1 - AI Book Insights](images/e1.jpg)
+
+*Fig 1: Knowing book insights by AI*
+
+![e2 - Dashboard](images/e2.jpg)
+
+*Fig 2: Dashboard*
+
+![e3 - Books](images/e3.jpg)
+
+*Fig 3: Books*
+
+![e4 - AI Help Chat](images/e4.jpg)
+
+*Fig 4: AI Help Chat*
+
+![e5 - Chat History](images/e5.jpg)
+
+*Fig 5: Chat History*
+
+![e6 - Add New Book](images/e6.jpg)
+
+*Fig 6: Adding of new book*
 
 ## 📧 Contact
 For academic/project review purposes, add your name, email, and repository link here.

@@ -23,8 +23,8 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 border-b border-gray-700 bg-gray-900/95 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <NavLink to="/" className="group flex items-center gap-3" onClick={() => setOpen(false)}>
-          <div className="rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 px-3 py-1.5 text-base font-black text-white">
-            📚 BookIQ
+          <div className="rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 px-2 py-1.5">
+            <img src="/bookiq-logo.svg" alt="BookIQ" className="h-8 w-auto" />
           </div>
           <span className="hidden text-xs text-slate-400 group-hover:text-slate-300 sm:inline">
             AI-Powered Book Intelligence
